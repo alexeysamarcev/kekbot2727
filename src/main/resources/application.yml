@@ -1,5 +1,6 @@
 application.viber-bot:
-  auth-token: "48039e1c3167d6c9-5826f70631e09c21-b1ec1addf16155df48039e1c3167d6c9-5826f70631e09c21-b1ec1addf16155df"
+  auth-token: "48039e1c3167d6c9-5826f70631e09c21-b1ec1addf16155df"
+  
   webhook-url: "https://kekbot2727.herokuapp.com"
   name: "kekbot2727"
   avatar: "http://risovach.ru/upload/2016/10/generator/shrek_126793679_orig_.jpg"
